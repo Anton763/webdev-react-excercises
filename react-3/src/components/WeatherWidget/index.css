@@ -1,0 +1,12 @@
+.widget{
+  max-width: 300px;
+  width: 100%;
+  padding: 15px;
+  box-shadow: 0 5px 10px #000;
+  border-radius: 15px;
+}
+.widget-item{
+  display: flex;
+  align-items: center;
+
+}
